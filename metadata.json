@@ -1,0 +1,8 @@
+{
+  "name": "Habib ur Rehman — Royal Wedding Celebration",
+  "description": "An exquisite, cinematic Islamic digital wedding invitation with glassmorphism, dynamic environmental lighting, and ceremony details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
